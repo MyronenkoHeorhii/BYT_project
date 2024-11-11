@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BYT_project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af47d4972ced79e19f4c057d1961df1d3cfc9fc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BYT_project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BYT_project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
